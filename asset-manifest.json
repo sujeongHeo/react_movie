@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-movie/static/css/main.37164e2b.chunk.css",
-    "main.js": "/react-movie/static/js/main.723d3126.chunk.js",
-    "main.js.map": "/react-movie/static/js/main.723d3126.chunk.js.map",
-    "runtime-main.js": "/react-movie/static/js/runtime-main.a248410b.js",
-    "runtime-main.js.map": "/react-movie/static/js/runtime-main.a248410b.js.map",
-    "static/js/2.272e4bc1.chunk.js": "/react-movie/static/js/2.272e4bc1.chunk.js",
-    "static/js/2.272e4bc1.chunk.js.map": "/react-movie/static/js/2.272e4bc1.chunk.js.map",
-    "index.html": "/react-movie/index.html",
-    "precache-manifest.83eca860ef44332e8909edea377b6252.js": "/react-movie/precache-manifest.83eca860ef44332e8909edea377b6252.js",
-    "service-worker.js": "/react-movie/service-worker.js",
-    "static/css/main.37164e2b.chunk.css.map": "/react-movie/static/css/main.37164e2b.chunk.css.map",
-    "static/js/2.272e4bc1.chunk.js.LICENSE": "/react-movie/static/js/2.272e4bc1.chunk.js.LICENSE",
-    "static/media/logo.svg": "/react-movie/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react_movie/static/css/main.37164e2b.chunk.css",
+    "main.js": "/react_movie/static/js/main.0461ecb0.chunk.js",
+    "main.js.map": "/react_movie/static/js/main.0461ecb0.chunk.js.map",
+    "runtime-main.js": "/react_movie/static/js/runtime-main.1b0938e9.js",
+    "runtime-main.js.map": "/react_movie/static/js/runtime-main.1b0938e9.js.map",
+    "static/js/2.272e4bc1.chunk.js": "/react_movie/static/js/2.272e4bc1.chunk.js",
+    "static/js/2.272e4bc1.chunk.js.map": "/react_movie/static/js/2.272e4bc1.chunk.js.map",
+    "index.html": "/react_movie/index.html",
+    "precache-manifest.bf06a9decef01c0d0e49617af3d1d551.js": "/react_movie/precache-manifest.bf06a9decef01c0d0e49617af3d1d551.js",
+    "service-worker.js": "/react_movie/service-worker.js",
+    "static/css/main.37164e2b.chunk.css.map": "/react_movie/static/css/main.37164e2b.chunk.css.map",
+    "static/js/2.272e4bc1.chunk.js.LICENSE": "/react_movie/static/js/2.272e4bc1.chunk.js.LICENSE",
+    "static/media/logo.svg": "/react_movie/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a248410b.js",
+    "static/js/runtime-main.1b0938e9.js",
     "static/js/2.272e4bc1.chunk.js",
     "static/css/main.37164e2b.chunk.css",
-    "static/js/main.723d3126.chunk.js"
+    "static/js/main.0461ecb0.chunk.js"
   ]
 }
